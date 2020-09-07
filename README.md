@@ -19,7 +19,8 @@ This includes the following:
 <li>Code fully integrated into a Version Control System using the Feature-Branch model which will subsequently be built through a CI server and deployed to a cloud-based virtual machine</li>
 </ul>
 <h4>Deliverables</h4>
-The web application being created based on the standard music streamig applications such as spotify or apple music however it allows the user to create playlists based on their mood or activity.To accomplish the project aims & objectives the web application being created will include the following functionalities as the Minimunm Viable product:
+The web application being created based on the standard music streamig applications such as spotify or apple music however it allows the user to create playlists based on their mood or activity.
+<p>To accomplish the project aims & objectives the web application being created will include the following functionalities as the Minimunm Viable product:</p>
 <ul>
   <li>Create user accounts that stores User First and Last Name, User Email and User Password</li>
   <li>Login/Logout</li>
